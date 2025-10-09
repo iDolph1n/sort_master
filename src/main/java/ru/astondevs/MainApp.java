@@ -8,5 +8,5 @@ package ru.astondevs;
  * дженериками, конструктором и стратегическими шаблонами.
  */
 
-public class Main {
+public class MainApp {
 }
